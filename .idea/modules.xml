@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LearnLeakCanary.iml" filepath="$PROJECT_DIR$/LearnLeakCanary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LearnLeakCanary.iml" filepath="$PROJECT_DIR$/.idea/modules/LearnLeakCanary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/LearnLeakCanary.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/LearnLeakCanary.app.iml" />
     </modules>
   </component>
 </project>

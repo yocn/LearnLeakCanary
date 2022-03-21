@@ -13,4 +13,12 @@ public final class KeyedWeakReference extends WeakReference<Object> {
 		this.key = key;
 		this.name = name;
 	}
+
+	@Override
+	public String toString() {
+		return "KeyedWeakReference{" +
+				"key='" + key + '\'' +
+				", name='" + name + '\'' +
+				'}';
+	}
 }
